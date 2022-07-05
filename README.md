@@ -50,8 +50,6 @@ Test users credentials:
 > - login - _john@example.com_
 > - password - _123456_
 
-_Due to demo reasons and heroku free terms, if an app receives no web traffic in a 30-minute period, it will sleep. Therefore, during the first launch, the application may take longer to load than usual, approximately 15 - 20 seconds. So please be patient and wait for the app to launch. Subsequent launches will be relatively fast._
-
 ## Technology stack
 
 > ### FrontEnd
