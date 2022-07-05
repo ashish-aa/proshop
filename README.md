@@ -20,7 +20,8 @@ eCommerce platform built with the MERN stack & Redux. This app includes authenti
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-##### \*This project is based on Brad Traversy's MERN eCommerce From Scratch
+
+
 
 <br>
 <p align="center">
